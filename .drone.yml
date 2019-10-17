@@ -1,7 +1,7 @@
 kind: pipeline
 name: terraform-demo
 steps:
-- name: Deploy
+- name: tf-deploy
   image: alpine
   commands:
   - apk --update add curl
