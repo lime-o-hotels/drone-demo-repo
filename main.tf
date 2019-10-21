@@ -9,5 +9,5 @@ provider "google" {
 
 resource "google_project" "department_project" {
   name       = "loronken-test-01"
-  project_id = "loronken-test-02	"
+  project_id = "loronken-test-02"
 }
