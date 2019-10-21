@@ -1,1 +1,1 @@
-variable ACCESS_TOKEN {}
+variable access_token {}
